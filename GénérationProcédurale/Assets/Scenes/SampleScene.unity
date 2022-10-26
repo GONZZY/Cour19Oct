@@ -585,7 +585,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   height: 2
-  width: 1
+  width: 2
 --- !u!4 &1994783161
 Transform:
   m_ObjectHideFlags: 0
